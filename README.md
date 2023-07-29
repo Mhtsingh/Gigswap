@@ -3,7 +3,7 @@
 
 ## Overview
 
-Gigswap is an innovative online platform that facilitates the buying and selling of gigs, providing a dynamic marketplace where freelancers and clients can connect and exchange services. Whether you are a talented freelancer looking to offer your skills or a customer seeking specialized services, GigTrade is the ideal destination for seamless gig transactions.
+Gigswap is an innovative online platform that facilitates the buying and selling of gigs, providing a dynamic marketplace where freelancers and clients can connect and exchange services. Whether you are a talented freelancer looking to offer your skills or a customer seeking specialized services, Gigswap is the ideal destination for seamless gig transactions.
 
 ## Features
 
